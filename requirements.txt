@@ -1,0 +1,3 @@
+# Runtime time-zone database.  It is vendored under vendor/lib/tzdata and
+# pinned here for traceability; no third-party recurrence engine is used.
+tzdata==2025.2
